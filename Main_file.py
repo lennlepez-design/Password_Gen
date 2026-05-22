@@ -1,6 +1,6 @@
 import random
 import string
-import Module
+from Module import generate_password
 
 # user loop
 print("Password Generator")
